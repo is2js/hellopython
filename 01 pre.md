@@ -1,4 +1,5 @@
-added by chojaeseong for pull request -> author가 다시 main에서 수정  -> collab이 되어 수정,쓰기 권한이 생겼다.
+added by chojaeseong for pull request -> author가 다시 main에서 수정 -> collab이 되어 수정,쓰기 권한이 생겼다.
+-> 로컬로 clone해왔다.
 
 ## 예진
 
@@ -263,7 +264,6 @@ added by chojaeseong for pull request -> author가 다시 main에서 수정  -> 
    ```
 
 10. **혹시 술담배 하냐**고 콕 찝어서 **물어보지말고**, **물흐르듯이 `술담배는 하시나요?`** 물어보고, 직업도 마찬가지로 **`하시는 일 간단히 어떻게 되시나요?`**라 물어본다.
-
 
     ```
     기호식품 (술, 담배) -
