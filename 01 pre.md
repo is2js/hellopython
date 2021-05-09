@@ -1,4 +1,4 @@
-added by chojaeseong for pull request -> author가 다시 main에서 수정
+added by chojaeseong for pull request -> author가 다시 main에서 수정  -> collab이 되어 수정,쓰기 권한이 생겼다.
 
 ## 예진
 
